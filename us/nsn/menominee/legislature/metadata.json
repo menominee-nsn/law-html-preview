@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "build": {
+      "build-date": "2026-01-27",
+      "codified-date": "0001-01-01",
+      "platform": {
+        "reproducible": "false",
+        "version": "2.19.0"
+      },
+      "repositories": [
+        {
+          "commit": "0fc64ea2a1dab033e1ce39dbc1937c6b564829ff",
+          "name": "menominee-nsn/law-xml"
+        },
+        {
+          "commit": "a669f955eaaaa67de0dd3dde91f57cd8b17899a0",
+          "name": "menominee-nsn/law-xml-codified-preview"
+        }
+      ],
+      "search": {
+        "version": "v2"
+      }
+    },
+    "canonical-urls": {
+      "html": "",
+      "html-bulk": "https://github.com/menominee-nsn/law-html",
+      "static-assets": "https://github.com/menominee-nsn/law-static-assets",
+      "xml-bulk": "https://github.com/menominee-nsn/law-xml"
+    },
+    "contact": {
+      "email": "help@openlawlib.org"
+    },
+    "description": ""
+  }
+}
