@@ -1,7 +1,7 @@
 {
   "meta": {
     "build": {
-      "build-date": "2026-02-03",
+      "build-date": "2026-02-05",
       "codified-date": "0001-01-01",
       "platform": {
         "reproducible": "false",
@@ -9,11 +9,11 @@
       },
       "repositories": [
         {
-          "commit": "0fc64ea2a1dab033e1ce39dbc1937c6b564829ff",
+          "commit": "7c330cd9fe791a79a314cd86586452191d6b08f0",
           "name": "menominee-nsn/law-xml"
         },
         {
-          "commit": "6e5141191ca44a90753d09c03f2d488e39674ee4",
+          "commit": "e059182e14f8b2894ddf0726f7944fe67817d5b8",
           "name": "menominee-nsn/law-xml-codified-preview"
         }
       ],

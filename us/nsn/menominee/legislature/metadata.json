@@ -11,6 +11,10 @@
         {
           "commit": "0fc64ea2a1dab033e1ce39dbc1937c6b564829ff",
           "name": "menominee-nsn/law-xml"
+        },
+        {
+          "commit": "6e5141191ca44a90753d09c03f2d488e39674ee4",
+          "name": "menominee-nsn/law-xml-codified-preview"
         }
       ],
       "search": {
